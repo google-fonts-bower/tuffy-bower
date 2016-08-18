@@ -1,0 +1,17 @@
+{
+    "name": "tuffy-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Thatcher Ulrich"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/tuffy-bower.git"
+    },
+    "description": "Tuffy font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
